@@ -15,11 +15,14 @@ LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works
 ### Currently Available Apps:
 | Application                                  | LiveContainer Options / Extra Data | Install |
 |       :---:                                  |             -----------            |  :---:  |
-| Geometry Dash <br> `2.207 (Geode v4.4.0)`    | Tweak Folder:<br>`Geometry Dash/`<br>`└─ Geode.ios.dylib`<br><br>`Launch with JIT - ✅`| [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
-| YTLitePlus <br> `19.34.2-5.0.1`              | None. | `d4uazE` |
 | GTA: San Andreas <br> `2.2.20`               | None. | `RnargQ` |
 | Five Nights at Freddy's <br> `2.0.5`         | None. | `eoW4Xs` |
 | Five Nights at Freddy's 2 <br> `2.0.5`       | None. | `eMJG3h` |
 | Bloons TD 6 <br> `48.2`                      | None. | `egqCrr` |
 | Minecraft Preview <br> `1.21.90.23`          | None. | `93aVMb` |
-| MeloNX <br> `1.7.0`                          | Data Folder Included<br>Comes with required files<br><br> Changed Settings:<br>`Launch with JIT - ✅`<br>`Fix File Picker - ✅`<br>`Spoof SDK Version - ✅` | `tciNqC` |
+
+|                               **Icon**                               |            **Name / Version**           |                                           **Install**                                          |
+|:--------------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------:|
+| <img src="icons/com.robtop.geometryjump.png" width="86" height="86"> | Geometry Dash<br>`2.207 (Geode v4.4.0)` | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
+|  <img src="icons/com.google.ios.youtube.png" width="86" height="86"> |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
+|   <img src="icons/com.stossy11.MeloNX.png" width="86" height="86">   |            MeloNX<br>`1.7.0`            | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/ytcp2bax)<br>`tciNqC` |
