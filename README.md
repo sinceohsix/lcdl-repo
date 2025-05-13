@@ -10,7 +10,7 @@ LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works
 **Step 3.** Use a code to download an app or add a repository. You can add this one using the button below.  
 **Step 4.** You can now use LC-DL by runnning the shortcut!
 
-[Add to LC-DL](https://tinyurl.com/yuzn6nbp)
+[<img src="assets/repo.png" width="170" height="64">](https://www.google.com)
 
 ### Currently Available Apps:
 | Application                                  | LiveContainer Options / Extra Data | Code |
