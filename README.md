@@ -10,4 +10,5 @@ Add this repo to LC-DL by tapping the button below or enter this code when runni
 | YTLitePlus <br> `19.34.2-5.0.1`              | None. | `d4uazE` |
 | GTA: San Andreas <br> `2.2.20`               | None. | `RnargQ` |
 | Five Nights at Freddy's <br> `2.0.5`         | None. | `eoW4Xs` |
+| Five Nights at Freddy's 2 <br> `2.0.5`       | None. | `` |
 | MeloNX <br> `1.7.0`                          | Data Folder Included<br>Comes with required files<br><br> Changed Settings:<br>`Launch with JIT - ✅`<br>`Fix File Picker ✅`<br>`Spoof SDK Version ✅` | `tciNqC` |
