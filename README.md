@@ -6,7 +6,7 @@ This repo hosts the shortcut, auto-updater info, as well as some apps for downlo
 ### How to use LC-DL:
 **Step 1:** Download the latest version of the shortcut from [here]. This link will always have the latest version.  
 **Step 2.** Once downloaded, open the file in the shortcuts app. It will prompt you to add the shortcut.  
-**Step 3.** Use a code to either download an app or add a repository.  
+**Step 3.** Use a code to either download an app or add a repository. You can add this one using the button below.
 
 [Add to LC-DL](https://tinyurl.com/yuzn6nbp)
 
