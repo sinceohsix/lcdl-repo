@@ -15,7 +15,7 @@ LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works
 ### Currently Available Apps:
 | Application                                  | LiveContainer Options / Extra Data | Code |
 |       :---:                                  |             -----------            |:---: |
-| Geometry Dash <br> `2.207 (Geode v4.4.0)`    | Tweak Folder:<br>`Geometry Dash/`<br>`└─ Geode.ios.dylib`<br><br>`Launch with JIT - ✅`| `vZTNwL` |
+| Geometry Dash <br> `2.207 (Geode v4.4.0)`    | Tweak Folder:<br>`Geometry Dash/`<br>`└─ Geode.ios.dylib`<br><br>`Launch with JIT - ✅`| [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
 | YTLitePlus <br> `19.34.2-5.0.1`              | None. | `d4uazE` |
 | GTA: San Andreas <br> `2.2.20`               | None. | `RnargQ` |
 | Five Nights at Freddy's <br> `2.0.5`         | None. | `eoW4Xs` |
