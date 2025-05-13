@@ -2,10 +2,10 @@
 This is the main repo for LC-DL (LiveContainer Downloader), a shortcut that easily allows you to install and setup LiveContainer apps.
 
 ### What is LC-DL:
-LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer. If an app comes with tweaks, data folders, or specific settings that need to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
+LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks, data folders, or specific settings that need to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
 
 ### How to use LC-DL:
-**Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut). 
+**Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut).  
 **Step 2.** Once downloaded, open the file in the shortcuts app, you will be prompted to add the shortcut.  
 **Step 3.** Use a code to download an app or add a repository. You can add this one using the button below.  
 **Step 4.** You can now use LC-DL by runnning the shortcut!
