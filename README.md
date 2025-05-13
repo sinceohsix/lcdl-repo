@@ -12,5 +12,5 @@ Add this repo to LC-DL by tapping the button below or enter this code when runni
 | Five Nights at Freddy's <br> `2.0.5`         | None. | `eoW4Xs` |
 | Five Nights at Freddy's 2 <br> `2.0.5`       | None. | `eMJG3h` |
 | Bloons TD 6 <br> `48.2`                      | None. | `egqCrr` |
-| Minecraft Preview <br> `1.21.90.23`          | None. | `` |
+| Minecraft Preview <br> `1.21.90.23`          | None. | `93aVMb` |
 | MeloNX <br> `1.7.0`                          | Data Folder Included<br>Comes with required files<br><br> Changed Settings:<br>`Launch with JIT - ✅`<br>`Fix File Picker - ✅`<br>`Spoof SDK Version - ✅` | `tciNqC` |
