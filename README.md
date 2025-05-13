@@ -12,7 +12,7 @@ This repo hosts the shortcut, auto-updater info, as well as some apps for downlo
 
 ### Currently Available Apps:
 | Application                                  | LiveContainer Options / Extra Data | Code |
-|       :---:                                  |      -----------      |:---: |
+|       :---:                                  |             -----------            |:---: |
 | Geometry Dash <br> `2.207 (Geode v4.4.0)`    | Tweak Folder:<br>`Geometry Dash/`<br>`└─ Geode.ios.dylib`<br><br>`Launch with JIT - ✅`| `vZTNwL` |
 | YTLitePlus <br> `19.34.2-5.0.1`              | None. | `d4uazE` |
 | GTA: San Andreas <br> `2.2.20`               | None. | `RnargQ` |
