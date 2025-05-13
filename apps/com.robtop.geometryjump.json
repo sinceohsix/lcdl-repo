@@ -3,6 +3,7 @@
   "name": "Geometry Dash",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
   "tweaks": true,
+  "data": false,
   "version": "2.207",
   "size": "174.7 MB"
 }
