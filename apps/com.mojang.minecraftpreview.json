@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "name": "Minecraft Preview",
+  "desc": "Minecraft Preview allows you to experience unreleased upcoming Minecraft features, fresh from the development team at Mojang Studios!",
+  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/MCPreview/",
+  "tweaks": false,
+  "data": false,
+  "version": "1.21.90.23",
+  "size": "949.3 MB"
+}
