@@ -1,14 +1,17 @@
 {
-  "Geometry Dash": {
-    "tweaks": true,
-    "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
-    "image": "",
-    "version": "2.207"
-  },
-  "YTLitePlus": {
-    "tweaks": false,
-    "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/YTLitePlus/",
-    "image": "",
-    "version": "19.34.2-5.0.1"
+  "type": "repo",
+  "apps": {
+    "1": {
+      "tweaks": true,
+      "name": "Geometry Dash",
+      "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
+      "version": "2.207"
+    },
+    "2": {
+      "tweaks": false,
+      "name": "YTLitePlus",
+      "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/YTLitePlus/",
+      "version": "19.34.2-5.0.1"
+    }
   }
 }
