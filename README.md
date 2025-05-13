@@ -23,6 +23,6 @@ LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works
 
 |                               **Icon**                               |            **Name / Version**           |                                           **Install**                                          |
 |:--------------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------:|
-| <img src="icons/com.robtop.geometryjump.png" width="86" height="86"> | Geometry Dash<br>`2.207 (Geode v4.4.0)` | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
-|  <img src="icons/com.google.ios.youtube.png" width="86" height="86"> |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
-|   <img src="icons/com.stossy11.MeloNX.png" width="86" height="86">   |            MeloNX<br>`1.7.0`            | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/ytcp2bax)<br>`tciNqC` |
+| <img src="icons/com.robtop.geometryjump.png" width="80" height="80"> | Geometry Dash<br>`2.207 (Geode v4.4.0)` | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
+|  <img src="icons/com.google.ios.youtube.png" width="80" height="80"> |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
+|   <img src="icons/com.stossy11.MeloNX.png" width="80" height="80">   |            MeloNX<br>`1.7.0`            | [<img src="assets/app.png" width="103" height="37">](https://tinyurl.com/ytcp2bax)<br>`tciNqC` |
