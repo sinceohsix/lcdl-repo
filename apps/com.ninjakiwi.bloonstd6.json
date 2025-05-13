@@ -1,6 +1,7 @@
 {
   "type": "app",
   "name": "Bloons TD 6",
+  "desc": "Craft your perfect defense from a combination of powerful Monkey Towers and awesome Heroes, then pop every last invading Bloon!"
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/BTD6/",
   "tweaks": false,
   "data": false,
