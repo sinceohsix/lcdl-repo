@@ -1,6 +1,7 @@
 {
   "type": "app",
   "name": "Geometry Dash",
+  "desc": "Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
   "tweaks": true,
   "data": false,
