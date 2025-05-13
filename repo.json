@@ -1,0 +1,14 @@
+{
+  "Geometry Dash": {
+    "tweaks": true,
+    "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
+    "image": "",
+    "version": "2.207"
+  },
+  "YTLitePlus": {
+    "tweaks": false,
+    "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/YTLitePlus/",
+    "image": "",
+    "version": "19.34.2-5.0.1"
+  }
+}
