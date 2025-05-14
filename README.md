@@ -35,7 +35,7 @@ In order to download apps using LC-DL you must either use a code or a button. Be
 In order to download apps from a repository, you must first add one. You can also do this with either a code or an "Add repo to LC-DL" button. Upon importing the repository it will be saved locally to your device and when you run the shortcut you can select a repository, and then an app to install from it. You can add this repository using the button at the top of the page!
 
 ## Available Apps:
-This is a list of every app currently available in this repository with a direct install button as well as a code for each of them.
+This is a list of every app currently available in this repository. If you have LC-DL installed you can tap the "Install" button to install it.
 >[!Note]
 Every app available on this repo has been tested and they are confirmed to work perfectly with LiveContainer, any necessary settings are already enabled.
 
