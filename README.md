@@ -26,6 +26,7 @@ LC-DL Codes are powered by is.gd, these codes will either link to an app or a re
 |           <img src="icons/com.google.ios.youtube.png" width="86">           |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
 |             <img src="icons/com.stossy11.MeloNX.png" width="86">            |            MeloNX<br>`1.7.0`            | [<img src="assets/app.png" width="103">](https://tinyurl.com/ytcp2bax)<br>`tciNqC` |
 | <img src="icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png" width="86"> |         DolphiniOS<br>`4.0.0b8`         | [<img src="assets/app.png" width="103">](https://tinyurl.com/5eubycms)<br>`WdGNX2` |
+|           <img src="icons/com.antique.Folium-iOS.png" width="86">           |             Folium<br>`1.20`            | [<img src="assets/app.png" width="103">](https://tinyurl.com/526hc6yv)<br>`hcJGhD` |
 |             <img src="icons/com.spotify.client.png" width="86">             |     Eevee Spotify<br>`9.0.40-3.3.13`    | [<img src="assets/app.png" width="103">](https://tinyurl.com/3ta2hbp3)<br>`bigeKH` |
 |           <img src="icons/com.robtop.geometryjump.png" width="86">          | Geometry Dash<br>`2.207 (Geode v4.4.0)` | [<img src="assets/app.png" width="103">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
 |          <img src="icons/com.scottgames.fivenights.png" width="86">         |    Five Nights at Freddy's<br>`2.0.5`   | [<img src="assets/app.png" width="103">](https://tinyurl.com/3dzfmmef)<br>`eoW4Xs` |
