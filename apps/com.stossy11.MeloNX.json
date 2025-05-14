@@ -1,6 +1,8 @@
 {
   "type": "app",
   "name": "MeloNX",
+  "desc": "N/A",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.stossy11.MeloNX.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/MeloNX/",
   "tweaks": false,
   "data": true,
