@@ -10,10 +10,9 @@
 [Usage](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#usage) | 
 [App List](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#currently-available-apps)
 
-[<img src="assets/repo.png" width="170">](https://www.google.com)
+[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)
 
 </h4>
-<h6 align="center"><b></b>Repository support coming soon*</b></h6>
 
 ## What is LC-DL?
 LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
