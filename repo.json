@@ -1,7 +1,7 @@
 {
   "type": "repo",
   "name": "LC-DL Repo",
-  "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/repo.json",
+  "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
   "apps": {
     "1": {
       "name": "Geometry Dash",
