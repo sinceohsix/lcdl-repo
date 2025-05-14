@@ -10,7 +10,8 @@
 [Usage](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#usage) | 
 [App List](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#currently-available-apps)
 
-[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)
+[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)  
+`H1z8Ya`
 
 </h4>
 
