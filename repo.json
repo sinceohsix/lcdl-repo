@@ -1,17 +1,15 @@
 {
   "type": "repo",
+  "name": "LC-DL Repo",
+  "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/repo.json",
   "apps": {
     "1": {
-      "tweaks": true,
       "name": "Geometry Dash",
-      "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Geometry/",
-      "version": "2.207"
+      "bundleID": "com.robtop.geometryjump"
     },
     "2": {
-      "tweaks": false,
       "name": "YTLitePlus",
-      "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/YTLitePlus/",
-      "version": "19.34.2-5.0.1"
+      "bundleID": "com.google.ios.youtube"
     }
   }
 }
