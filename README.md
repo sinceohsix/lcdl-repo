@@ -31,7 +31,7 @@ This should go without saying but, **in order to use LC-DL you must already have
 #### Downloading apps directly:
 In order to download apps using LC-DL you must either use a code or a button. Below you can find a list of available apps in this repository, there will be an "Install with LC-DL" button and a code below it for each app. You can press the button to install the app but if that doesn't work you can copy the code and paste it into the shortcut.
 
-#### Downloading from a repository: (COMING SOON!)
+#### Downloading from a repository:
 In order to download apps from a repository, you must first add one. You can also do this with either a code or an "Add repo to LC-DL" button. Upon importing the repository it will be saved locally to your device and when you run the shortcut you can select a repository, and then an app to install from it. You can add this repository using the button at the top of the page!
 
 ## Available Apps:
