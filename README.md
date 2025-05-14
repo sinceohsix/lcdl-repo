@@ -2,7 +2,9 @@
 This is the main repo for LC-DL (LiveContainer Downloader), a shortcut that easily allows you to install and setup LiveContainer apps.
 
 ## What is LC-DL?
-LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks, data folders, or specific settings that need to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
+LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
+
+[<img src="assets/repo.png" width="170" height="64">](https://www.google.com)
 
 ## How to install LC-DL
 **Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut).  
@@ -10,17 +12,15 @@ LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works
 **Step 3.** Once the shortcut is installed you are done!
 
 ## Usage
-You can two ways of installing apps:  
-### 1. From a repository
-By using a code or an "Add repo to LC-DL" button (like the one found below) you can add repositories to LC-DL, any repositories will be saved to device for easy access later. After saving a repository, running the shortcut will show a list of your saved repositories where you can then pick an app to install.  
+With LC-DL installed you can now use two things:  
+### 1. LC-DL Buttons
+LC-DL buttons can either prompt you to directly install an app or to add a repository to LC-DL (like the big one below). Upon tapping the button, the shortcut will run automatically. You will find these on Github repos and websites.
 
-[<img src="assets/repo.png" width="170" height="64">](https://www.google.com)
+### 2. LC-DL Codes
+LC-DL Codes are powered by is.gd, these codes will either link to an app or a repository. To use a code, simply run the shortcut. If you have no saved repositories you will be asked to paste a code automatically. If you have one or more repositories saved, the "Enter Code" button will be at the top of your list.
 
-### 2. Direct app install
-By using a code or an "Install with LC-DL" button you can easily install apps, all you need to do is press "OK" when prompted.
-
-
-### Currently Available Apps:
+## Currently Available Apps:
+**Note:** Every app available on this repo has been tested and they are confirmed to work perfectly with LiveContainer, any necessary settings are already enabled.
 |                                   **Icon**                                  |            **Name / Version**           |                                     **Install**                                    |
 |:---------------------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------:|
 |           <img src="icons/com.google.ios.youtube.png" width="86">           |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
