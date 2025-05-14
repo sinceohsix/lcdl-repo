@@ -19,6 +19,14 @@
     "4": {
       "name": "DolpiniOS",
       "bundleID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
+    },
+    "5": {
+      "name": "Folium",
+      "bundleID": "com.antique.Folium-iOS"
+    },
+    "6": {
+      "name": "Minecraft Preview",
+      "bundleID": "com.mojang.minecraftpreview"
     }
   }
 }
