@@ -1,7 +1,7 @@
 {
   "type": "repo",
   "name": "LC-DL Repo",
-  "message": "Welcome to the main LC-DL repo! Please select an app to download.
+  "message": "Welcome to the main LC-DL repo! Please select an app to download.",
   "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
   "apps": {
     "1": {
