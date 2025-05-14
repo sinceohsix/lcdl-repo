@@ -1,26 +1,44 @@
-# LC-DL Repo
-This is the main repo for LC-DL (LiveContainer Downloader), a shortcut that easily allows you to install and setup LiveContainer apps.
+<div align="center">
+  <h1><b>LC-DL</b></h1>
+  <p>A shortcut for LiveContainer, giving you access to a basic app store and making installing apps easier.<br>This repo contains the shortcut as well as a starter repository of apps.</p>
+</div>
+
+<h4 align="center">
+  
+[What is LC-DL?](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#what-is-lc-dl) | 
+[How to install LC-DL](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#how-to-install-lc-dl) | 
+[Usage](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#usage) | 
+[App List](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#currently-available-apps)
+
+[<img src="assets/repo.png" width="170">](https://www.google.com)
+
+</h4>
+<h6 align="center"><b></b>Repository support coming soon*</b></h6>
 
 ## What is LC-DL?
 LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
 
-[<img src="assets/repo.png" width="170" height="64">](https://www.google.com)
+## How to install and use LC-DL
+>[!Note]
+This should go without saying but, **in order to use LC-DL you must already have LiveContainer setup and installed.**
 
-## How to install LC-DL
+### Installation:  
 **Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut).  
 **Step 2.** Once downloaded, open the file in the shortcuts app, you will be prompted to add the shortcut.  
-**Step 3.** Once the shortcut is installed you are done!
+**Step 3.** Once the shortcut is installed, you are done!
 
-## Usage
-With LC-DL installed you can now use two things:  
-### 1. LC-DL Buttons
-LC-DL buttons can either prompt you to directly install an app or to add a repository to LC-DL (like the big one below). Upon tapping the button, the shortcut will run automatically. You will find these on Github repos and websites.
+### Usage:
+#### Downloading apps directly:
+In order to download apps using LC-DL you must either use a code or a button. Below you can find a list of available apps in this repository, there will be an "Install with LC-DL" button and a code below it for each app. You can press the button to install the app but if that doesn't work you can copy the code and paste it into the shortcut.
 
-### 2. LC-DL Codes
-LC-DL Codes are powered by is.gd, these codes will either link to an app or a repository. To use a code, simply run the shortcut. If you have no saved repositories you will be asked to paste a code automatically. If you have one or more repositories saved, the "Enter Code" button will be at the top of your list.
+#### Downloading from a repository: (COMING SOON!)
+In order to download apps from a repository, you must first add one. You can also do this with either a code or an "Add repo to LC-DL" button. Upon importing the repository it will be saved locally to your device and when you run the shortcut you can select a repository, and then an app to install from it. You can add this repository using the button at the top of the page!
 
-## Currently Available Apps:
-**Note:** Every app available on this repo has been tested and they are confirmed to work perfectly with LiveContainer, any necessary settings are already enabled.
+## Available Apps:
+This is a list of every app currently available in this repository with a direct install button as well as a code for each of them.
+>[!Note]
+Every app available on this repo has been tested and they are confirmed to work perfectly with LiveContainer, any necessary settings are already enabled.
+
 |                                   **Icon**                                  |            **Name / Version**           |                                     **Install**                                    |
 |:---------------------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------:|
 |           <img src="icons/com.google.ios.youtube.png" width="86">           |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
