@@ -1,7 +1,7 @@
 {
   "type": "repo",
   "name": "LC-DL Repo",
-  "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
+  "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/repo.json",
   "apps": {
     "1": {
       "name": "Geometry Dash",
@@ -10,6 +10,14 @@
     "2": {
       "name": "YTLitePlus",
       "bundleID": "com.google.ios.youtube"
+    },
+    "3": {
+      "name": "MeloNX",
+      "bundleID": "com.stossy11.MeloNX"
+    },
+    "4": {
+      "name": "DolpiniOS",
+      "bundleID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
     }
   }
 }
