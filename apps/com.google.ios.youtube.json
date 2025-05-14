@@ -2,7 +2,7 @@
   "type": "app",
   "name": "YTLitePlus",
   "desc": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.",
-  "bundleID": "com.google.ios.youtube",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.google.ios.youtube.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/YTLitePlus/",
   "tweaks": false,
   "data": false,
