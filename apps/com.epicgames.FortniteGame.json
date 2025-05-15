@@ -5,7 +5,7 @@
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.epicgames.FortniteGame.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Fortnite/",
   "tweaks": false,
-  "data": true,
+  "data": false,
   "version": "35.00.2",
   "size": "474.8 MB"
 }
