@@ -2,6 +2,7 @@
   "type": "app",
   "name": "DolphiniOS",
   "desc": "DolphiniOS is a GameCube and Wii emulator for iOS and iPadOS. All iOS versions starting with 14.0 are supported, and no jailbreak is required!",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/DolphinEmu/",
   "tweaks": false,
   "data": false,
