@@ -42,6 +42,7 @@ Every app available on this repo has been tested and they are confirmed to work 
 |                                   **Icon**                                  |            **Name / Version**           |                                     **Install**                                    |
 |:---------------------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------:|
 |           <img src="icons/com.google.ios.youtube.png" width="86">           |      YTLitePlus<br>`19.34.2-5.0.1`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
+|         <img src="icons/com.epicgames.FortniteGame.png" width="86">         |      Fortnite<br>`35.00.2-patched`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/b9mzwnbc)<br>`OFUAvn` |
 |             <img src="icons/com.stossy11.MeloNX.png" width="86">            |            MeloNX<br>`1.7.0`            | [<img src="assets/app.png" width="103">](https://tinyurl.com/ytcp2bax)<br>`tciNqC` |
 | <img src="icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png" width="86"> |         DolphiniOS<br>`4.0.0b8`         | [<img src="assets/app.png" width="103">](https://tinyurl.com/5eubycms)<br>`WdGNX2` |
 |           <img src="icons/com.antique.Folium-iOS.png" width="86">           |             Folium<br>`1.20`            | [<img src="assets/app.png" width="103">](https://tinyurl.com/526hc6yv)<br>`hcJGhD` |
