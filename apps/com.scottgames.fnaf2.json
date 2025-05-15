@@ -1,6 +1,8 @@
 {
   "type": "app",
   "name": "Five Nights at Freddy's 2",
+  "desc": "Welcome back to the new and improved Freddy Fazbear's Pizza! In Five Nights at Freddy's 2, the old and aging animatronics are joined by a new cast of characters. They are kid-friendly, updated with the latest in facial recognition technology, tied into local criminal databases, and promise to put on a safe and entertaining show for kids and grown-ups alike!",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.scottgames.fnaf2.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/FNaF2/",
   "tweaks": false,
   "data": false,
