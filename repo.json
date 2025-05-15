@@ -27,6 +27,14 @@
     "6": {
       "name": "Minecraft Preview",
       "bundleID": "com.mojang.minecraftpreview"
+    },
+    "7": {
+      "name": "Fortnite (Patched)",
+      "bundleID": "com.epicgames.FortniteGame"
+    },
+    "8": {
+      "name": "Eevee Spotify",
+      "bundleID": "com.spotify.client"
     }
   }
 }
