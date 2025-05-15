@@ -32,13 +32,16 @@ This should go without saying but, **in order to use LC-DL you must already have
 >[!Note]
 The shortcuts app is preinstalled on all iPhones/iPads, if it is not on your device you can download it from the App Store.  
   
-**Step 3.** Once the shortcut is installed, you are done!
+**Step 3.** Press "Add Shortcut", you will then be asked to select the necessary paths to your LiveContainer.  
+**Step 4.** Once the shortcut is setup and you have selected your paths you can start using LC-DL.  
 
 ### Usage:
-#### Downloading apps directly:
-In order to download apps using LC-DL you must either use a code or a button. Below you can find a list of available apps in this repository, there will be an "Install with LC-DL" button and a code below it for each app. You can press the button to install the app but if that doesn't work you can copy the code and paste it into the shortcut.
+#### Downloading apps:
+You have two ways of installing apps once LC-DL is installed:  
+**"Install with LC-DL" buttons**. 
+If you see a button that looks like this  <img src="assets/app.png" width="58">  then you can tap it to install the app! Below there is a list of apps in this repository that you can install this way.
 
-#### Downloading from a repository:
+**Downloading from a repository**  
 In order to download apps from a repository, you must first add one. You can also do this with either a code or an "Add repo to LC-DL" button. Upon importing the repository it will be saved locally to your device and when you run the shortcut you can select a repository, and then an app to install from it. You can add this repository using the button at the top of the page!
 
 ## Available Apps:
