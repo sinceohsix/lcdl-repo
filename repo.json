@@ -3,6 +3,7 @@
   "name": "LC-DL Repo",
   "message": "Welcome to the main LC-DL repo! Please select an app to download.",
   "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
+  "version": "1",
   "apps": {
     "1": {
       "name": "Geometry Dash",
@@ -35,6 +36,18 @@
     "8": {
       "name": "Eevee Spotify",
       "bundleID": "com.spotify.client"
+    },
+    "9": {
+      "name": "Five Night's at Freddy's",
+      "bundleID": "com.scottgames.fivenights"
+    },
+    "10": {
+      "name": "Five Night's at Freddy's 2",
+      "bundleID": "com.scottgames.fnaf2"
+    },
+    "11": {
+      "name": "Bloons TD 6",
+      "bundleID": "com.ninjakiwi.bloonstd6"
     }
   }
 }
