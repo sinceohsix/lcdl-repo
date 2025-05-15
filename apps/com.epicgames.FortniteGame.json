@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Fortnite (Patched)",
+  "desc": "(Note from @sinceohsix on Github): This version of Fortnite is patched. While I personally haven't gotten banned and neither has anyone else (as far as I've heard) there is still a possibility. I am NOT responsible if you get banned by using this version. If you are worried you can also use an alt account.",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.epicgames.FortniteGame.png",
+  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Fortnite/",
+  "tweaks": false,
+  "data": true,
+  "version": "35.00.2",
+  "size": "474.8 MB"
+}
