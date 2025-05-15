@@ -1,19 +1,23 @@
 <div align="center">
-  <h1><b>LC-DL</b></h1>
-  <p>A shortcut for LiveContainer, giving you access to a basic app store and making installing apps easier.<br>This repo contains the shortcut as well as a starter repository of apps.</p>
+  <img src="assets/logo.png" width="300"><br>
+  <b> This is LC-DL! </b><br>
+  <sub>(aka... LiveContainer Downloader)</sub>
+  <br>
+  <br>
+  <p>A shortcut for LiveContainer that allows you to easily install apps from the internet!<br>This repo contains the shortcut as well as a repository of tested apps.</p>
+  <h4>
+    
+  [What is LC-DL?](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#what-is-lc-dl) | 
+  [How to install and use LC-DL](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#how-to-install-and-use-lc-dl) | 
+  [Available Apps](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#available-apps)
+
+  </h4>
+  
+[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)  
+<sub>`H1z8Ya`</sub>
+
 </div>
 
-<h4 align="center">
-  
-[What is LC-DL?](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#what-is-lc-dl) | 
-[How to install LC-DL](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#how-to-install-lc-dl) | 
-[Usage](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#usage) | 
-[App List](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#currently-available-apps)
-
-[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)  
-`H1z8Ya`
-
-</h4>
 
 ## What is LC-DL?
 LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
