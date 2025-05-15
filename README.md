@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" width="300"><br>
-  <b> This is LC-DL! </b><br>
+  <h1> This is LC-DL! </h1>
   <sub>(aka... LiveContainer Downloader)</sub>
   <br>
   <br>
@@ -12,22 +12,23 @@
   [Available Apps](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#available-apps)
 
   </h4>
-  
-[<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)  
-<sub>`H1z8Ya`</sub>
+  <br>
+
+  [<img src="assets/repo.png" width="170">](https://tinyurl.com/bpu5ubk8)  
+  <sub>`H1z8Ya`</sub>
 
 </div>
 
 
 ## What is LC-DL?
-LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows people to easily share apps for installation with LiveContainer with the least amount of setup required.
+LC-DL is a shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainer folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows you to easily download and install apps in LiveContainer with the least amount of setup required.
 
 ## How to install and use LC-DL
 >[!Note]
 This should go without saying but, **in order to use LC-DL you must already have LiveContainer setup and installed.**
 
 ### Installation:  
-**Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut).  
+**Step 1:** Download the latest version of the shortcut from [here](https://github.com/sinceohsix/lcdl-repo/releases/tag/Shortcut), be sure to read the release notes for any extra info.  
 **Step 2.** Once downloaded, open the file in the shortcuts app, you will be prompted to add the shortcut.  
 **Step 3.** Once the shortcut is installed, you are done!
 
