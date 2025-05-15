@@ -2,6 +2,7 @@
   "type": "app",
   "name": "Eevee Spotify",
   "desc": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.spotify.client.png",
   "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Spotify/",
   "tweaks": false,
   "data": false,
