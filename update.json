@@ -1,4 +1,4 @@
 {
-  "version": "0.2",
-  "message": "Changelog: New stuff! (this is for testing haha)"
+  "version": "0.1.1-beta",
+  "message": "Changelog: Added setup for LiveContainer paths. Fixes a bug when setting up on different devices."
 }
