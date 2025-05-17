@@ -3,7 +3,7 @@
   "name": "LC-DL Repo",
   "message": "Welcome to the main LC-DL repo! Please select an app to download.",
   "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
-  "version": "1",
+  "version": "2",
   "apps": {
     "1": {
       "name": "Geometry Dash",
