@@ -1,4 +1,4 @@
 {
-  "version": "0.1.1-beta",
-  "message": "Changelog: Added setup for LiveContainer paths. Fixes a bug when setting up on different devices."
+  "version": "0.2-beta",
+  "message": "Added downloadable data folders! You can now use LC-DL to download MeloNX without needing to download keys or firmware! Repositories now automatically update when viewing them. Emjoy :)"
 }
