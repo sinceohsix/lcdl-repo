@@ -37,12 +37,13 @@ The shortcuts app is preinstalled on all iPhones/iPads, if it is not on your dev
 
 ### Usage:
 #### Downloading apps:
-You have two ways of installing apps once LC-DL is installed:  
-**"Install with LC-DL" buttons**. 
+You have two ways of installing apps once LC-DL is installed:
+
+**"Install with LC-DL" buttons**.  
 If you see a button that looks like this  <img src="assets/app.png" width="58">  then you can tap it to install the app! Below there is a list of apps in this repository that you can install this way.
 
 **Downloading from a repository**  
-In order to download apps from a repository, you must first add one. You can also do this with either a code or an "Add repo to LC-DL" button. Upon importing the repository it will be saved locally to your device and when you run the shortcut you can select a repository, and then an app to install from it. You can add this repository using the button at the top of the page!
+In order to download apps from a repository, you must first add one. Directions for this are below. When a repository is added you will be able to simply run LC-DL and see it in your repository list. You can open it and select an app to download it.
 
 ## Available Apps:
 This is a list of every app currently available in this repository. If you have LC-DL installed you can tap the "Install" button to install it.
