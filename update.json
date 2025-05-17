@@ -1,4 +1,4 @@
 {
   "version": "0.2-beta",
-  "message": "Added downloadable data folders! You can now use LC-DL to download MeloNX without needing to download keys or firmware! Repositories now automatically update when viewing them. Emjoy :)"
+  "message": "Downloadable data folders are now supported! Downloading MeloNX using LC-DL will now come with keys/firmware! Also repositories now fetch newly added apps every time! Enjoy this update! A lot more to come in the future!"
 }
