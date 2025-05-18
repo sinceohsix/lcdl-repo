@@ -62,6 +62,8 @@ Every app available on this repo has been tested and they are confirmed to work 
 | <img src="icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png" width="86"> |         DolphiniOS<br>`4.0.0b8`         | [<img src="assets/app.png" width="103">](https://tinyurl.com/5eubycms)<br>`WdGNX2` |
 |           <img src="icons/com.antique.Folium-iOS.png" width="86">           |             Folium<br>`1.20`            | [<img src="assets/app.png" width="103">](https://tinyurl.com/526hc6yv)<br>`hcJGhD` |
 |             <img src="icons/com.spotify.client.png" width="86">             |     Eevee Spotify<br>`9.0.40-3.3.13`    | [<img src="assets/app.png" width="103">](https://tinyurl.com/3ta2hbp3)<br>`bigeKH` |
+|            <img src="icons/com.atebits.Tweetie2.png" width="86">            |       BHTwitter<br>`10.97.1-4.3.2`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/msh87mjp)<br>`bJ8MTP` |
+|             <img src="icons/com.burbn.instagram.png" width="86">            |       BHInstagram<br>`380.0.0-1.2`      |                                                                                    |
 |           <img src="icons/com.robtop.geometryjump.png" width="86">          | Geometry Dash<br>`2.207 (Geode v4.4.0)` | [<img src="assets/app.png" width="103">](https://tinyurl.com/yevjjr3j)<br>`vZTNwL` |
 |          <img src="icons/com.scottgames.fivenights.png" width="86">         |    Five Nights at Freddy's<br>`2.0.5`   | [<img src="assets/app.png" width="103">](https://tinyurl.com/3dzfmmef)<br>`eoW4Xs` |
 |            <img src="icons/com.scottgames.fnaf2.png" width="86">            |   Five Nights at Freddy's 2<br>`2.0.5`  | [<img src="assets/app.png" width="103">](https://tinyurl.com/5nhhuwhf)<br>`eMJG3h` |
