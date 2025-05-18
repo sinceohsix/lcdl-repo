@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "BHInstagram",
+  "desc": "Awesome tweak for Instagram! Hide ads, download videos, replay "view-once" photos, and more!",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.burbn.instagram.png",
+  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/BHInstagram/",
+  "tweaks": false,
+  "data": false,
+  "version": "380.0.0-1.2",
+  "size": "416.3 MB"
+}
