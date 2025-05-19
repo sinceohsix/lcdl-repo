@@ -1,7 +1,8 @@
 <div align="center">
   <img src="assets/logo.png" width="300"><br>
   <h1> This is LC-DL! </h1>
-  <sub>(aka... LiveContainer Downloader)</sub>
+  <sub>(aka... LiveContainer Downloader)</sub><br>
+  <sub>Made with ❤️ by eli and kaylley!</sub>
   <br>
   <br>
   <p>An iOS shortcut for LiveContainer that allows you to easily install apps from the internet!<br>This repo contains the shortcut as well as a repository of tested apps.</p>
