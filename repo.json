@@ -48,6 +48,14 @@
     "11": {
       "name": "Bloons TD 6",
       "bundleID": "com.ninjakiwi.bloonstd6"
+    },
+    "12": {
+      "name": "BHTwitter",
+      "bundleID": "com.atebits.Tweetie2"
+    },
+    "13": {
+      "name": "BHInstagram",
+      "bundleID": "com.burbn.instagram"
     }
   }
 }
