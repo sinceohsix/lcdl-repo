@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "True Skate",
+  "desc": "True Skate™ is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.trueaxis.skate.png",
+  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/TrueSkate/",
+  "tweaks": false,
+  "data": false,
+  "version": "1.5.93",
+  "size": "108.9 MB"
+}
