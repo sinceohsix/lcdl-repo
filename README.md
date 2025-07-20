@@ -5,7 +5,7 @@
   <sub>Made with ❤️ by eli and kaylley (she was emotional support)!</sub>
   <br>
   <br>
-  <p>An iOS shortcut for LiveContainer that allows you to easily install apps from the internet!<br>This repo contains the shortcut as well as a repository of tested apps.</p>
+  <p>An iOS shortcut for LiveContainer that allows you to easily download apps from the internet!<br>This repo contains the shortcut as well as a repository of tested apps.</p>
   <h4>
     
   [What is LC-DL?](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#what-is-lc-dl) | 
