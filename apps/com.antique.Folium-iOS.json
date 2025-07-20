@@ -6,7 +6,7 @@
   "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/app.zip",
   "tweaks": false,
   "data": true,
-  "dataURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/data.zip",
+  "dataURL1": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/data.zip",
   "version": "1.20",
   "size": "64 MB"
 }
