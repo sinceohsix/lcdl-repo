@@ -3,10 +3,10 @@
   "name": "Folium",
   "desc": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.antique.Folium-iOS.png",
-  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/app.zip",
   "tweaks": false,
   "data": true,
-  "dataFolder": "B412F5D8-2407-4E2E-A394-2EC71B530C31",
+  "dataURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Folium/data.zip",
   "version": "1.20",
   "size": "64 MB"
 }
