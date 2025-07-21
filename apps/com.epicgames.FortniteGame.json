@@ -1,9 +1,9 @@
 {
   "type": "app",
   "name": "Fortnite (Patched)",
-  "desc": "(Note from @sinceohsix on Github): This version of Fortnite is patched. While I personally haven't gotten banned and neither has anyone else (as far as I've heard) there is still a possibility. I am NOT responsible if you get banned by using this version. If you are worried you can also use an alt account.",
+  "desc": "(Note from @sinceohsix on Github): This version of Fortnite is patched and outdated. It is recommended that you get Fortnite from the app store.",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.epicgames.FortniteGame.png",
-  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Fortnite/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/Fortnite/app.zip",
   "tweaks": false,
   "data": false,
   "version": "35.00.2",
