@@ -3,7 +3,7 @@
   "name": "GTA VC",
   "desc": "From the decade of big hair, excess and pastel suits comes a story of one man's rise to the top of the criminal pile. Vice City, a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, was one of the most varied, complete and alive digital cities ever created. Combining open-world gameplay with a character driven narrative, you arrive in a town brimming with delights and degradation and given the opportunity to take it over as you choose.",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.rockstargames.gta3vc.png",
-  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/GTAVC/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/GTAVC/app.zip",
   "tweaks": false,
   "data": false,
   "version": "1.5.6",
