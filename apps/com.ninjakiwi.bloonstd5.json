@@ -3,7 +3,7 @@
   "name": "Bloons TD 5",
   "desc": "The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.ninjakiwi.bloonstd5.png",
-  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/BTD5/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/BTD5/",
   "tweaks": false,
   "data": false,
   "version": "4.5",
