@@ -73,4 +73,4 @@ Every app available on this repo has been tested and they are confirmed to work 
 |          <img src="icons/com.rockstargames.gta3sa.png" width="86">          |       GTA: San Andreas<br>`2.2.20`      | [<img src="assets/app.png" width="103">](https://tinyurl.com/3ysjevf5)<br>`RnargQ` |
 
 ### Special Thanks
-I'd like to give a special thanks to @jbmagination, she messaged me about LC-DL and gave me some very helpful info about how LC stored app info which helped me make v0.3 the best version of LC-DL yet. 😎 They are also working on a template to allow you to create your own repositories!
+I'd like to give a special thanks to [@suprstarrd](https://github.com/suprstarrd), she messaged me about LC-DL and gave me some very helpful info about how LC stored app info which helped me make v0.3 the best version of LC-DL yet. 😎 They are also working on a template to allow you to create your own repositories!
