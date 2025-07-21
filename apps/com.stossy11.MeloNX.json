@@ -3,10 +3,10 @@
   "name": "MeloNX",
   "desc": "The most advanced NX emulator for iOS",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/com.stossy11.MeloNX.png",
-  "url": "https://github.com/sinceohsix/lcdl-repo/releases/download/MeloNX/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/MeloNX/app.zip",
   "tweaks": false,
   "data": true,
-  "dataFolder": "2C7DD783-9A51-4C98-AEA7-34AA427B89ED",
+  "dataURL1": "https://github.com/sinceohsix/lcdl-repo/releases/download/MeloNX/data.zip",
   "version": "1.7.0",
   "size": "151.9 MB"
 }
