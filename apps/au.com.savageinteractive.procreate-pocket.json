@@ -3,7 +3,7 @@
   "name": "Procreate Pocket",
   "desc": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations. Offering hundreds of handmade brushes, a suite of intuitive artistic tools, an advanced layer system, and the powerful Valkyrie graphics engine. Work on the couch, on the train, at the beach, or while waiting in line for coffee.",
   "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/au.com.savageinteractive.procreate-pocket.png",
-  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/ProcreatePocket/",
+  "appURL": "https://github.com/sinceohsix/lcdl-repo/releases/download/ProcreatePocket/app.zip",
   "tweaks": false,
   "tweaksURL": "https://sample.com/tweaks.zip",
   "data": false,
