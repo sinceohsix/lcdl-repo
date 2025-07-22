@@ -1,4 +1,4 @@
 {
-  "version": "0.3-beta",
-  "message": "Apps, data, and tweaks are now downloaded differently to make hosting your own apps easier! This update also makes downloading data folders more efficient!"
+  "version": "0.3.1-beta",
+  "message": "Apps, data, and tweaks are now downloaded differently to make hosting your own apps easier! This update also makes downloading data folders more efficient! v0.3.1-beta fixes a bug introduced in v0.3-beta that listed repo contents rather than the name when choosing."
 }
