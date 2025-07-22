@@ -1,7 +1,8 @@
 # LC-DL Version History / Changelog
 
-### Latest Version: 0.3.1 Beta (5)
+### Latest Version: 0.3.2 Beta (7)
 **Changelog:**
+-I broke the setup in 0.3.1...... and then left a debugging thing in on 0.3.2....
 - Accidentaly pushed v0.3 without fixing a bug I added while making it, causing repo names to list the **entire** repo file contents, this has been fixed.
 - All file downloads have been redone to be more accommodating for file hosting sites than Github, app.zip, tweaks.zip, and data.zip can all be in different download locations and still work!
 - Data folders have been redone and made even easier for publishers! The container UUID (aka Container Folder Name) is now fetched from the applications .app file which negates the need to specify the “dataFolder” string in the app.json and also allows you to upload more than one!
