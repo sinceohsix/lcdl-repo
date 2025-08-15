@@ -20,9 +20,12 @@
 
 </div>
 
+### LC-DL is a work-in-progress and currently undergoing a huge overhaul, expect things to break, also expect them to be fixed. Your patience is appreciated.
+
+### 0.4 Beta is coming very soon. 
 
 ## What is LC-DL?
-LC-DL is an iOS shortcut to easily add apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainers `Applications` folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows you to easily download and install apps in LiveContainer with the least amount of setup required.
+LC-DL is an iOS shortcut to easily download apps to your LiveContainer. The shortcut works by directly adding the .app files to your LiveContainers `Applications` folder. If an app comes with tweaks or need specific settings to be turned on, they will be setup automatically as well. This allows you to easily download and install apps in LiveContainer with the least amount of setup required and even download from repositories!
 
 ## How to install and use LC-DL
 This should go without saying but, **in order to use LC-DL you must already have LiveContainer setup and installed.**
