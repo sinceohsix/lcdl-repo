@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="300"><br>
-  <h1> This is LC-DL! </h1>
+  <img src="assets/banners/main.png" width="450"><br>
   <sub>(aka... LiveContainer Downloader)</sub><br>
   <sub>Made with ❤️ by eli and kaylley (she was emotional support)!</sub>
   <br>
