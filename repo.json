@@ -1,7 +1,7 @@
 {
   "type": "repo",
   "name": "LC-DL Repo",
-  "message": "Welcome to the main LC-DL repo! Please select an app to download.",
+  "message": "This repository is being taken offline shortly! LC-DL v0.4 is releasing soon with a new, bigger, and better app repository! Stay Tuned!",
   "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/",
   "version": "3",
   "apps": {
