@@ -15,7 +15,7 @@
   </h4>
 </div>
 
-LC-DL is a work-in-progress and currently undergoing a huge overhaul, expect things to break, also expect them to be fixed. Your patience is appreciated.
+LC-DL v0.4 is coming soon and while it is being prepared the app repository hosted here is being slowly removed. Apps will be available in a new repository very **very** soon. Your patience is appreciated.
 
 <strong>0.4 Beta is coming very soon.</strong>
 
