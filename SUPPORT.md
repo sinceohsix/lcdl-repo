@@ -1,1 +1,0 @@
-## Support and FAQ
