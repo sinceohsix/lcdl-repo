@@ -25,8 +25,8 @@ LC-DL is an iOS shortcut to easily download apps to LiveContainer. The shortcut 
 LC-DL is an iOS Shortcut, meaning the Shortcuts app needs to be installed. It comes with your iPhone but if you deleted it, download it again from [here](https://apps.apple.com/us/app/shortcuts/id1462947752).
 
 To install LC-DL either:
-1. Go to the [releases]() page
-2. Download the latest `LC-DL.shortcut` file
+1. Go to the [releases](https://github.com/sinceohsix/lcdl-repo/releases/latest) page.
+2. Download the latest `LC-DL.shortcut` file.
 3. Open `LC-DL.shortcut` in the shortcuts app.
 4. Set the shortcut up by selecting the `On My iDevice > LiveContainer` folder.
 5. Turn the "Allow Sharing Large Amounts of Data" setting on in the settings of the shortcut app, found within the regular iOS settings.
