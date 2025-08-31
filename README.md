@@ -2,6 +2,8 @@
   <img src="assets/banners/main.png" width="500"><br>
   <br>
   <p>An iOS shortcut for LiveContainer that allows you to easily download apps from the internet! This repo contains the shortcut, apps are available in a seperate repository, more info below.</p>
+  Compatible with iOS 18+
+  
   <sub>LC-DL is made with ❤️ by Eli and Kaylley!</sub>
 
   <h4>
