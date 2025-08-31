@@ -46,7 +46,7 @@ You can add a repository with a 6-character code or by tapping this <img src="as
 **LC2HS Integration:**  
 [LC2HS](https://github.com/lc-dl/lc2hs) is another shortcut I've made that allows you to easily add your LiveContainer apps to your home screen. If you have both LC-DL and LC2HS setup, you will be asked if you want to add your newly installed app to your homescreen automatically!
 <br><br>
-<div align="center"><a name="repository"><img src="assets/banner/3.png" height="50"></a></div><br>
+<div align="center"><a name="repository"><img src="assets/banners/3.png" height="50"></a></div><br>
 
 LC-DL has a repository of great apps and games to get you started, [**check it out**](https://github.com/lc-dl/apps) or tap the button below to add the repository to LC-DL!
 
