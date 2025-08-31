@@ -59,6 +59,7 @@ The LC-DL App Repository has over 40 apps and games and there is *at least* one 
 ### Special Thanks
 [@suprstarrd](https://github.com/suprstarrd) • Gave helpful info regarding LCAppInfo.plist  
 [@kaylleylol](https://github.com/kaylleylol) • She claims she helped with all of it lol
+@**you!** • Thank you for checking out my project! Your support means the world!
 
 <sub><b>DISCLAIMER:</b><br>
 NEITHER ME (@sinceohsix) OR LC-DL AS A PROJECT ARE AFFILIATED WITH LIVECONTAINER OR ITS DEVELOPERS! This project is a  seperate thing built for the love of sideloading. Please don't ask the LiveContainer developers for support with using LC-DL, they are not obligated to help you with this shortcut. LiveContainer is a great app, if you starred LC-DL, make sure you star LiveContainer as well, they deserve it! Thank you for reading.</sub>
