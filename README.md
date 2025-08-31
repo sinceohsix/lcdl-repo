@@ -9,7 +9,7 @@
 [What is LC-DL?](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#what-is-lcdl)  
 [Setup and Usage](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#setup-usage)   
 [The LC-DL App Repository](https://github.com/sinceohsix/lcdl-repo?tab=readme-ov-file#repository)  
-[Documentation](https://github.com/sinceohsix/lcdl/docs)
+[Documentation](https://github.com/sinceohsix/lcdl-repo/wiki)
 
   </h4>
 </div>
