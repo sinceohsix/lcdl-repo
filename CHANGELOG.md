@@ -1,5 +1,14 @@
 # LC-DL Version History
 
+#### ⚠️ In Development: 0.5 Beta (9)
+Changelog:
+
+- Added a lot more settings:
+  - Install LC2HS from settings
+  - You can now choose to automatically run LC2HS, never run LC2HS, or ask what to do every time
+  - You can now save downloaded tweaks as global tweaks, add it to an existing tweak folder, or make a new tweak folder. This can also be set to a default in LC-DL settings
+- Repository app lists are now sorted by alphabetical order, finally!
+
 ### Latest Version: 0.4 Beta (8) (Rebuilt)
 Changelog:
 
