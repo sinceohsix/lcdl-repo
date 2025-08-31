@@ -58,7 +58,7 @@ The LC-DL App Repository has over 40 apps and games and there is *at least* one 
 
 ### Special Thanks
 [@suprstarrd](https://github.com/suprstarrd) • Gave helpful info regarding LCAppInfo.plist  
-[@kaylleylol](https://github.com/kaylleylol) • She claims she helped with all of it lol
+[@kaylleylol](https://github.com/kaylleylol) • She claims she helped with all of it lol  
 @**you!** • Thank you for checking out my project! Your support means the world!
 
 <sub><b>DISCLAIMER:</b><br>
