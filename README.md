@@ -31,7 +31,7 @@ To install LC-DL either:
 4. Set the shortcut up by selecting the `On My iDevice > LiveContainer` folder.
 5. Turn the "Allow Sharing Large Amounts of Data" setting on in the settings of the shortcut app, found within the regular iOS settings.
 
-or... You can get it from [this]() iCloud Link. Please make sure you still follow the setup directions.
+or... You can get it from [this](https://www.icloud.com/shortcuts/c17b6696014d4107835a67febd9202d4) iCloud Link. Please make sure you still follow the setup directions.
 
 ### Usage:
 **Codes:**  
