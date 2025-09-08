@@ -8,7 +8,7 @@ Changelog:
 - The way data folders are downloaded has been changed ever so slightly but is faster and uses leas actions than before.
 
 - New options in settings:
-  - Install /Update LC2HS
+  - Install / Update LC2HS
   - LC2HS Settings
   - Tweak Settings
  
