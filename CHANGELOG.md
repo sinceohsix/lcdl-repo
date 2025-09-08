@@ -1,9 +1,11 @@
 # LC-DL Version History
 
-#### ⚠️ In Development: 0.5 Beta (9)
+### Latest Version: 0.5 Beta (9)
 Changelog:
 
-- Repository app lists are now sorted by alphabetical order, finally!
+- Repository app lists are generated using a Cloudflare worker and are now sorted by alphabetical order, finally!
+
+- The way data folders are downloaded has been changed ever so slightly but is faster and uses leas actions than before.
 
 - New options in settings:
   - Install /Update LC2HS
@@ -12,7 +14,7 @@ Changelog:
  
 - Tweaks can now be downloaded as global tweaks or saved to an existing folder. The original functionality of saving standalone tweaks to their own folder is also still an option.
 
-### Latest Version: 0.4 Beta (8) (Rebuilt)
+#### 0.4 Beta (8) (Rebuilt)
 Changelog:
 
 - LC-DL has been **completely** rebuilt from the ground up, adding new features, optimizing the shortcut, and giving a better user experience, all while using less than 5 more actions than the original.
