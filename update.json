@@ -1,5 +1,5 @@
 {
-  "version": "0.4-beta",
-  "build": "8",
-  "message": "LC-DL has been completely rebuilt from the ground up, it has new features and runs better while using less than 5 more actions than the last version!"
+  "version": "0.5-beta",
+  "build": "9",
+  "message": "LC-DL v0.5 adds new options to customize certain areas of the shortcut while speeding up repository loading and data folder downloading!"
 }
