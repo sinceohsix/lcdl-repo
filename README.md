@@ -58,7 +58,7 @@ The LC-DL App Repository has over 40 apps and games and there is *at least* one 
 
 ### Special Thanks
 [@suprstarrd](https://github.com/suprstarrd) • Gave helpful info regarding LCAppInfo.plist  
-[@Dan1elTheMan1el](https://github.com/Dan1elTheMan1el) • Told me about Cloudflare Workers and made the original worker I based mine on  
+[@Dan1elTheMan1el](https://github.com/Dan1elTheMan1el) • Made the original Cloudflare worker I based mine on  
 [@kaylleylol](https://github.com/kaylleylol) • She claims she helped with all of it lol  
 @**you!** • Thank you for checking out my project! Your support means the world!
 
